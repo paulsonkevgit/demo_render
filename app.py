@@ -76,4 +76,4 @@ def get_image(filename):
 
 if __name__ == '__main__':
     print("Starting Flask app...")
-    app.run(host='0.0.0.0', debug=True)
+    app.run(debug=True)
